@@ -4,7 +4,6 @@ frontend/node_modules/
 backend/node_modules/
 
 # Environment variables
-.env
 backend/.env
 frontend/.env.local
 
@@ -44,3 +43,6 @@ data/
 *.md
 !README.md
 
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
